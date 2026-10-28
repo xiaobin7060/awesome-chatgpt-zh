@@ -399,6 +399,7 @@ Chat-GPT 超级挂件，以侧边窗口的形式提供服务，可以在阅读�
 * [分享你与 ChatGPT 的对话：ShareGPT](https://github.com/domeccleston/sharegpt)
 * [让 ChatGPT 联网: WebChatGPT](https://github.com/qunash/chatgpt-advanced)
 * [ChatShell（拾贝）](https://www.chatshellexport.com/)：在浏览器本地将 ChatGPT 对话导出为 PDF、DOCX、Markdown 和 JSON，支持批量导出并保留 LaTeX 公式、代码块与表格。
+* [TODOC](https://todoc.ai/)：把 ChatGPT、Claude、Gemini、DeepSeek 对话导出为 Word、PDF、Excel 和 Markdown，公式在 Word 中保持可编辑，表格与代码块原样保留；另有网页工具可直接粘贴 ChatGPT 分享链接导出。
 
 ### 更多工具
 
